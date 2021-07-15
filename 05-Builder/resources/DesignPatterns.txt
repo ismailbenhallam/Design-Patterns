@@ -1,0 +1,8 @@
+1, Singleton, creational
+2, Prototype, creational
+4, Abstract Factory, creational
+7, Bridge, structural
+10, Façade, structural
+13, Chain of Responsibility, behavioral
+14, Command, behavioral
+15, Interpreter, behavioral

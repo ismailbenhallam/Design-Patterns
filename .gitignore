@@ -1,0 +1,14 @@
+.metadata/
+.recommenders/
+.sonarlint/
+*.idea/
+*bin/
+*out/
+*target/
+*/.gitignore
+*/.git/
+*.settings/
+*.classpath
+*.project
+*.eml
+*.iml
