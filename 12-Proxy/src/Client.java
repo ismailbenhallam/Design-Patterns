@@ -13,6 +13,7 @@ public class Client {
 	}
 
 	void exp02() {
+		// Proxied reader
 		Reader subject = new LogProxy(new RealReader());
 		System.out.println(subject.read(file));
 	}
