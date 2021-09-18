@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/21-Strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/13-Chain-of-Responsibility/pom.xml" />
+        <option value="$PROJECT_DIR$/16-Iterator/pom.xml" />
+        <option value="$PROJECT_DIR$/19-Observer/pom.xml" />
+        <option value="$PROJECT_DIR$/20-State/pom.xml" />
+        <option value="$PROJECT_DIR$/06-Adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/14-Command/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Singleton/pom.xml" />
+        <option value="$PROJECT_DIR$/02-Prototype/pom.xml" />
+        <option value="$PROJECT_DIR$/03-Factory-Method/pom.xml" />
+        <option value="$PROJECT_DIR$/04-Abstract-Factory/pom.xml" />
+        <option value="$PROJECT_DIR$/05-Builder/pom.xml" />
+        <option value="$PROJECT_DIR$/07-Bridge/pom.xml" />
+        <option value="$PROJECT_DIR$/08-Composite/pom.xml" />
+        <option value="$PROJECT_DIR$/09-Decorator/pom.xml" />
+        <option value="$PROJECT_DIR$/10-Facade/pom.xml" />
+        <option value="$PROJECT_DIR$/11-Flyweight/pom.xml" />
+        <option value="$PROJECT_DIR$/12-Proxy/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
